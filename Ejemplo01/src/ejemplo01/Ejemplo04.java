@@ -18,5 +18,7 @@ public class Ejemplo04 {
         System.out.print(apellidoEstudiante + " ");
         System.out.print(nacimiento + " ");
         System.out.print(nombreEstudiante + " ");
+        // "print" lo utilizamos para imprimir en una sola linea varias impresiones 
+        // "print ln" immprime y da automaticamente da un salto de linea 
     }
 }
